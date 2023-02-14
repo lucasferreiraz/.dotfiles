@@ -12,10 +12,10 @@ set notification-warning-fg     "#BDE6F5"
 set notification-bg             "#3C3836"
 set notification-fg             "#BDE6F5"
 
-set index-bg                    "#1D2021"
+set index-bg                    "#171D20"
 set index-fg                    "#BDE6F5"
-set index-active-bg             "#1E2529"
-set index-active-fg             "#BDE6F5"
+set index-active-bg             "#BDE6FB"
+set index-active-fg             "#171D20"
 
 set inputbar-bg                 "#3C3836"
 set inputbar-fg                 "#BDE6F5"
